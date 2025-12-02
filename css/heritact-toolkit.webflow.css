@@ -1038,6 +1038,10 @@ body {
   color: var(--heritact-yellow);
 }
 
+.uui-heading-subheading.hide {
+  display: none;
+}
+
 .uui-max-width-large {
   width: 100%;
   max-width: 48rem;
